@@ -16,52 +16,52 @@ var questions_text = {};
 
 questions_text.en = [
   {
-    question: '<img src="img/co.png" class="img-fluid" alt="Co Cobalt">',
+    question: '<img id="img-element" src="img/co.png" class="img-fluid" alt="Co Cobalt">',
     answers: ["Coperniclum", "Chromium", "Cobalt", "Copper"],
     correct_answer: "Cobalt"
   },
   {
-    question: '<img src="img/ni.png" class="img-fluid" alt="Ni Nickel">',
+    question: '<img id="img-element" src="img/ni.png" class="img-fluid" alt="Ni Nickel">',
     answers: ["Nitrogen", "Niobium", "Nihonium", "Nickel"],
     correct_answer: "Nickel"
   },
   {
-    question: '<img src="img/ne.png" class="img-fluid" alt="Ne Neon">',
+    question: '<img id="img-element" src="img/ne.png" class="img-fluid" alt="Ne Neon">',
     answers: ["Neon", "Neptuniun", "Neodymium", "Nobelium"],
     correct_answer: "Neon"
   },
   {
-    question: '<img src="img/ru.png" class="img-fluid" alt="Ru Ruthenium">',
+    question: '<img id="img-element" src="img/ru.png" class="img-fluid" alt="Ru Ruthenium">',
     answers: ["Radium", "Ruthenium", "Rubidium", "Rhodium"],
     correct_answer: "Ruthenium"
   },
   {
-    question: '<img src="img/pa.png" class="img-fluid" alt="Pa Protactinium">',
+    question: '<img id="img-element" src="img/pa.png" class="img-fluid" alt="Pa Protactinium">',
     answers: ["Protactinium", "Praseodymium", "Platinum", "Palladium"],
     correct_answer: "Protactinium"
   },
   {
-    question: '<img src="img/ga.png" class="img-fluid" alt="Ga Gallium">',
+    question: '<img id="img-element" src="img/ga.png" class="img-fluid" alt="Ga Gallium">',
     answers: ["Germanium", "Gold", "Oganesson", "Gallium"],
     correct_answer: "Gallium"
   },
   {
-    question: '<img src="img/sn.png" class="img-fluid" alt="Sn Tin">',
+    question: '<img id="img-element" src="img/sn.png" class="img-fluid" alt="Sn Tin">',
     answers: ["Strontium", "Scandium", "Tin", "Sillicon"],
     correct_answer: "Tin"
   },
   {
-    question: '<img src="img/i.png" class="img-fluid" alt="I Iodine">',
+    question: '<img id="img-element" src="img/i.png" class="img-fluid" alt="I Iodine">',
     answers: ["Iridium", "Iodine", "Indium", "Iron"],
     correct_answer: "Iodine"
   },
   {
-    question: '<img src="img/au.png" class="img-fluid" alt="Au Gold">',
+    question: '<img id="img-element" src="img/au.png" class="img-fluid" alt="Au Gold">',
     answers: ["Gold", "Actinium", "Americium", "Aluminium"],
     correct_answer: "Gold"
   },
   {
-    question: '<img src="img/br.png" class="img-fluid" alt="Br Bromine">',
+    question: '<img id="img-element" src="img/br.png" class="img-fluid" alt="Br Bromine">',
     answers: ["Berillium", "Barium", "Bromine", "Bohrium"],
     correct_answer: "Bromine"
   }
@@ -69,52 +69,52 @@ questions_text.en = [
 
 questions_text.sr = [
   {
-    question: '<img src="img/co.png" class="img-fluid" alt="Co Cobalt">',
+    question: '<img id="img-element" src="img/co.png" class="img-fluid" alt="Co Cobalt">',
     answers: ["Coperniclum", "Chromium", "Cobalt", "Copper"],
     correct_answer: "Cobalt"
   },
   {
-    question: '<img src="img/ni.png" class="img-fluid" alt="Ni Nickel">',
+    question: '<img id="img-element" src="img/ni.png" class="img-fluid" alt="Ni Nickel">',
     answers: ["Nitrogen", "Niobium", "Nihonium", "Nickel"],
     correct_answer: "Nickel"
   },
   {
-    question: '<img src="img/ne.png" class="img-fluid" alt="Ne Neon">',
+    question: '<img id="img-element" src="img/ne.png" class="img-fluid" alt="Ne Neon">',
     answers: ["Neon", "Neptuniun", "Neodymium", "Nobelium"],
     correct_answer: "Neon"
   },
   {
-    question: '<img src="img/ru.png" class="img-fluid" alt="Ru Ruthenium">',
+    question: '<img id="img-element" src="img/ru.png" class="img-fluid" alt="Ru Ruthenium">',
     answers: ["Radium", "Ruthenium", "Rubidium", "Rhodium"],
     correct_answer: "Ruthenium"
   },
   {
-    question: '<img src="img/pa.png" class="img-fluid" alt="Pa Protactinium">',
+    question: '<img id="img-element" src="img/pa.png" class="img-fluid" alt="Pa Protactinium">',
     answers: ["Protactinium", "Praseodymium", "Platinum", "Palladium"],
     correct_answer: "Protactinium"
   },
   {
-    question: '<img src="img/ga.png" class="img-fluid" alt="Ga Gallium">',
+    question: '<img id="img-element" src="img/ga.png" class="img-fluid" alt="Ga Gallium">',
     answers: ["Germanium", "Gold", "Oganesson", "Gallium"],
     correct_answer: "Gallium"
   },
   {
-    question: '<img src="img/sn.png" class="img-fluid" alt="Sn Tin">',
+    question: '<img id="img-element" src="img/sn.png" class="img-fluid" alt="Sn Tin">',
     answers: ["Strontium", "Scandium", "Tin", "Sillicon"],
     correct_answer: "Tin"
   },
   {
-    question: '<img src="img/i.png" class="img-fluid" alt="I Iodine">',
+    question: '<img id="img-element" src="img/i.png" class="img-fluid" alt="I Iodine">',
     answers: ["Iridium", "Iodine", "Indium", "Iron"],
     correct_answer: "Iodine"
   },
   {
-    question: '<img src="img/au.png" class="img-fluid" alt="Au Gold">',
+    question: '<img id="img-element" src="img/au.png" class="img-fluid" alt="Au Gold">',
     answers: ["Gold", "Actinium", "Americium", "Aluminium"],
     correct_answer: "Gold"
   },
   {
-    question: '<img src="img/br.png" class="img-fluid" alt="Br Bromine">',
+    question: '<img id="img-element" src="img/br.png" class="img-fluid" alt="Br Bromine">',
     answers: ["Berillium", "Barium", "Bromine", "Bohrium"],
     correct_answer: "Bromine"
   }
